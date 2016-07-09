@@ -1,4 +1,4 @@
-name: mattg
+name: mjg
 favicon: null
 layout_spectrum: 0.973010758170858
 typography_spectrum: 0.8731467784382403
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.12977935769595206
+    - '#e7e7df'
+    - '#7e8ec1'
+    - '#5162a8'
+    - '#c3b0a2'
+    - '#54372f'
+  brandStrength: 0.1875
   lightness: 0.6403346213046461
   saturation: 0.6003343120682985
   rhythmicContrast: 0.9453636852558702

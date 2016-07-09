@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mjg]]></title>
+        <description><![CDATA[mjg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 01:03:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://threatpost.com/most-post-intrusion-cyber-attacks-involve-everyday-admin-tools/119046/ </p>]]></description>
+            <link>undefinedhttpsthreatpostcommost-post-intrusion-cyber-attacks-inv/index.html</link>
+            <guid isPermaLink="false">23f260a0-8bc3-4a82-8fbc-b975c402baaa</guid>
+            <pubDate>Sat, 09 Jul 2016 01:03:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
